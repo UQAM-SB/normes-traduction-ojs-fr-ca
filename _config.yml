@@ -1,0 +1,49 @@
+# Configuration de base pour GitHub Pages
+title: "Test"
+description: "Description de mon site"
+url: "https://username.github.io"       # Remplace par ton URL GitHub Pages
+baseurl: ""                             # Laisse vide si le site est à la racine
+
+# Auteur
+author:
+  name: "Groupe de travail PBUQ"
+  email: "ton@email.com"
+
+# Thème (optionnel — thèmes supportés par GitHub Pages)
+# theme: minima
+# remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins supportés par GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configuration de build
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclusions
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Paramètres des collections (optionnel)
+# collections:
+#   projects:
+#     output: true
+#     permalink: /projects/:name/
+
+# Pagination (nécessite jekyll-paginate)
+# paginate: 5
+# paginate_path: "/page:num/"
+
+# Fuseau horaire
+timezone: America/Toronto
