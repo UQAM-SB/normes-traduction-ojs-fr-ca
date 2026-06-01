@@ -1,6 +1,10 @@
 # Traductions des applications PKP pour le Canada francophone – guide de style
 
-> **Ce document est une version de travail**
+---
+
+## Version
+
+0.1-bêta (6 juin 2026)
 
 ---
 
@@ -22,7 +26,7 @@ La traduction évitera de reproduire les incohérences ou erreurs détectées da
 
 ## Rédaction inclusive
 
-Comme mentionné plus haut, ce document suit à quelques exceptions près les recommandations de l'OQLF en matière de rédaction inclusive. Il est à noter que ces recommandations sont très similaires à celles du [Portail linguistique du Canada](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html) et de plusieurs sources actuelles.
+Ce document suit à quelques exceptions près les recommandations de l'OQLF en matière de rédaction inclusive. Il est à noter que ces recommandations sont très similaires à celles du [Portail linguistique du Canada](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html) et de plusieurs sources actuelles.
 
 La rédaction inclusive ne consiste pas en une méthode unique que l'on appliquerait systématiquement, mais plutôt en une hiérarchie de stratégies classées en ordre de préférence, et parmi lesquelles on choisira la plus adaptée en fonction du contexte.
 
@@ -45,11 +49,11 @@ Par défaut, on cherchera à rédiger en mode épicène, c'est-à-dire en utilis
 
 Si la rédaction épicène s'avère impossible, peu naturelle ou trop imprécise, on pourra recourir à des termes genrés. Pour ce faire, on utilisera de préférence les doublets complets, en particulier dans une phrase complète ou un texte suivi.
 
-> ☝ Les doublets sont construits dans l'ordre masculin-féminin.
+☝ Les doublets sont construits dans l'ordre masculin-féminin.
 
-> ☝ Les compléments ne sont pas répétés, à moins que cette répétition n'occasionne des ambiguïtés, ou la scission d'un mot composé.
+☝ Les compléments ne sont pas répétés, à moins que cette répétition n'occasionne des ambiguïtés, ou la scission d'un mot composé.
 
-> ☝ Afin d'alléger le texte, on tâchera d'éviter les déterminants, compléments ou adjectifs qui nécessiteraient un accord de genre.
+☝ Afin d'alléger le texte, on tâchera d'éviter les déterminants, compléments ou adjectifs qui nécessiteraient un accord de genre.
 
 | ❌ À éviter | ✅ Préférer |
 | --- | --- |
@@ -63,20 +67,20 @@ Si la rédaction épicène s'avère impossible, peu naturelle ou trop imprécise
 
 Si l'espace manque pour utiliser les doublets complets, par exemple dans le cas d'un tableau, d'un bouton ou d'un titre, on se rabattra sur l'utilisation des doublets abrégés. Il s'agit d'une mesure de dernier recours.
 
-> ☝ Les doublets sont construits dans l'ordre masculin-féminin.
+☝ Les doublets sont construits dans l'ordre masculin-féminin.
 
-> ☝ Le caractère séparateur doit être la parenthèse, car le tiret ou le point médian posent des problèmes d'accessibilité pour les applications de synthèse vocale.
+☝ Le caractère séparateur doit être la parenthèse, car le tiret ou le point médian posent des problèmes d'accessibilité pour les applications de synthèse vocale.
 
-> ☝ La marque du pluriel ne doit pas être répétée.
+☝ La marque du pluriel ne doit pas être répétée.
 
-> ☝ Afin d'alléger le texte, on tâchera d'éviter les déterminants, compléments ou adjectifs qui nécessiteraient un accord de genre.
+☝ Afin d'alléger le texte, on tâchera d'éviter les déterminants, compléments ou adjectifs qui nécessiteraient un accord de genre.
 
 | ❌ À éviter | ✅ Préférer |
 | --- | --- |
 | Les évaluateurs-trices | Les évaluateur(rices) |
 | Les auteurs-es | Les auteur(rices) |
 | Le ou la rédacteur-trice en chef | Le(la) rédacteur(rice) en chef |
-| Tous et toutes les auteurs-es publiés-es | Ensemble des auteur(es) publié(es) |
+| Tous et toutes les auteurs-es publiés-es | L'ensemble des auteur(es) publié(es) |
 
 ---
 
@@ -90,7 +94,7 @@ Lorsqu'on emploie l'infinitif, on doit dépersonnaliser les pronoms et les déte
 
 Le mode impératif évoque un ton plus personnel, plus proche du public lecteur. Il convient davantage pour donner des instructions ou des conseils à suivre personnellement.
 
-> ☝ Dans les situations où l'on optera pour le vouvoiement, on tâchera de rédiger de manière à éviter les compléments ou adjectifs qui nécessiteraient un accord de genre.
+☝ Dans les situations où l'on optera pour le vouvoiement, on tâchera de rédiger de manière à éviter les compléments ou adjectifs qui nécessiteraient un accord de genre.
 
 | ❌ À éviter | ✅ Préférer |
 | --- | --- |
@@ -98,17 +102,17 @@ Le mode impératif évoque un ton plus personnel, plus proche du public lecteur.
 | Vous serez autorisé(e) | Vous recevrez l'autorisation |
 | Vous êtes identifié(e) comme auteur(e) | Vous figurez parmi les auteurs ou auteures |
 
-> ☝ On veillera à ne pas mélanger le vouvoiement et la forme infinitive dans une même chaîne.
+☝ On veillera à ne pas mélanger le vouvoiement et la forme infinitive dans une même chaîne.
 
 | ❌ À éviter | ✅ Préférer |
 | --- | --- |
 | Fournir tous les fichiers dont notre équipe éditoriale pourrait avoir besoin pour évaluer votre soumission | Veuillez fournir tous les fichiers dont notre équipe éditoriale pourrait avoir besoin pour évaluer votre soumission |
 
-> ☝ Par souci de concision, on évitera d'employer la formule « s'il vous plaît », sauf dans les contextes où la courtoisie s'imposerait (courriels, etc.)
+☝ Par souci de concision, on évitera d'employer la formule « s'il vous plaît », sauf dans les contextes où la courtoisie s'imposerait (courriels, etc.)
 
 | ❌ À éviter | ✅ Préférer |
 | --- | --- |
-| S'il vous plaît, confirmer | Veuillez confirmer |
+| S'il vous plaît, confirmez | Veuillez confirmer |
 
 ---
 
@@ -126,9 +130,9 @@ Une soumission peut avoir – et a souvent – plusieurs auteurs ou autrices. On
 
 ### Majuscules/minuscules
 
-> ☝ Dans un titre, seul le premier mot est en majuscule.
+☝ Dans un titre, seul le premier mot est en majuscule.
 
-> ☝ Les majuscules doivent être accentuées.
+☝ Les majuscules doivent être accentuées.
 
 | ❌ À éviter | ✅ Préférer |
 | --- | --- |
@@ -139,19 +143,21 @@ Une soumission peut avoir – et a souvent – plusieurs auteurs ou autrices. On
 
 Les termes techniques doivent être traduits si une version française existe dans le [Grand dictionnaire terminologique](https://vitrinelinguistique.oqlf.gouv.qc.ca/) de l'OQLF.
 
-> ☝ On peut conserver le terme anglais entre parenthèses si la traduction française est peu utilisée ou ambiguë.
+☝ On peut conserver le terme anglais entre parenthèses si la traduction française est peu utilisée ou ambiguë.
 
-> ☝ Les acronymes ne sont pas traduits, ni décomposés.
+☝ Les acronymes ne sont pas traduits, ni décomposés.
 
 | ❌ À éviter | ✅ Préférer |
 | --- | --- |
 | Compresser les journaux | Compresser les journaux (usage logs) |
 | Interface de programmation d'application | API |
 
+<!--
+Qu'entendait-on par là?
 ### Limites de caractères
 
 Ajouter une limite de caractères recommandée selon là où on est dans l'interface (onglets, menus, etc.)
-
+-->
 ---
 
 ## Équipe de rédaction
