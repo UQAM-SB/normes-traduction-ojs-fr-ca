@@ -1,9 +1,3 @@
-<style>
-  h1:not([class]):not([id]) {
-  color: white;
-}
-</style>
-
 # Traductions des applications PKP pour le Canada francophone – guide de style
 
 ---
