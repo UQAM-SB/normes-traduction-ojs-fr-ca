@@ -12,7 +12,7 @@
 
 Ce document vise à définir un ensemble minimal de normes et de bonnes pratiques pour la traduction fr_CA des applications et composantes du Public Knowledge Project (PKP). Ces recommandations s'appliquent également aux plugiciels, ainsi qu'à la documentation diffusée sur les infrastructures de PKP. Ce document ne vise pas l'exhaustivité ; il s'agit plutôt d'un cadre de travail qui s'ajoute aux bonnes pratiques générales en rédaction technique et en expérience utilisateur.
 
-En général, ce document suit les recommandations de l'[Office québécois de la langue française](https://www.oqlf.gouv.qc.ca/accueil.aspx) (OQLF).
+En général, ce document suit les recommandations de l'[Office québécois de la langue française](https://www.oqlf.gouv.qc.ca/accueil.aspx) (OQLF). 
 
 ---
 
