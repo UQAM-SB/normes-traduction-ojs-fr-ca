@@ -4,7 +4,7 @@
 
 ## Version
 
-0.1-bêta (6 juin 2026)
+0.2-bêta (23 septembre 2026)
 
 ---
 
@@ -77,10 +77,10 @@ Si l'espace manque pour utiliser les doublets complets, par exemple dans le cas 
 
 | ❌ À éviter | ✅ Préférer |
 | --- | --- |
-| Les évaluateurs-trices | Les évaluateur(rices) |
-| Les auteurs-es | Les auteur(rices) |
-| Le ou la rédacteur-trice en chef | Le(la) rédacteur(rice) en chef |
-| Tous et toutes les auteurs-es publiés-es | L'ensemble des auteur(es) publié(es) |
+| Les évaluateurs-trices | Les évaluateur(-trice)s |
+| Les auteurs-es | Les auteur(-trice)s |
+| Le ou la rédacteur-trice en chef | Le(la) rédacteur(-trice) en chef |
+| Tous et toutes les auteurs-es publiés-es | L'ensemble des auteur(-trice)s publié(e)s |
 
 ---
 
@@ -100,7 +100,7 @@ Le mode impératif évoque un ton plus personnel, plus proche du public lecteur.
 | --- | --- |
 | Êtes-vous certain(e) | Souhaitez-vous vraiment |
 | Vous serez autorisé(e) | Vous recevrez l'autorisation |
-| Vous êtes identifié(e) comme auteur(e) | Vous figurez parmi les auteurs ou auteures |
+| Vous êtes identifié(e) comme auteur(e) | Vous figurez parmi les auteurs ou autrices |
 
 ☝ On veillera à ne pas mélanger le vouvoiement et la forme infinitive dans une même chaîne.
 
@@ -120,7 +120,7 @@ Le mode impératif évoque un ton plus personnel, plus proche du public lecteur.
 
 ### Pluriel vs singulier
 
-Une soumission peut avoir – et a souvent – plusieurs auteurs ou autrices. On dira donc plutôt « les auteurs(trices) » plutôt que « l'auteur(trice) ».
+Une soumission peut avoir – et a souvent – plusieurs auteurs ou autrices. On dira donc plutôt « les auteur(-trice)s » plutôt que « l'auteur(-trice) ».
 
 > ☝ Les acronymes ne portent pas la marque du pluriel.
 
